@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-use App\Model\Review;
+use App\Review;
 use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
